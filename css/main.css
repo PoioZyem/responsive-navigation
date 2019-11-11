@@ -38,16 +38,16 @@ nav ul {
   list-style-type: none;
 }
 
-  nav li {
-    text-align: left;
-  }
+nav li {
+  text-align: left;
+}
 
-  nav a {
-    display: block;
-    padding: .5em .75em;
-    color: #333;
-    text-decoration: none;
-  }
+nav a {
+  display: block;
+  padding: .5em .75em;
+  color: #333;
+  text-decoration: none;
+}
 
 nav a:hover {
   background-color: #333;
