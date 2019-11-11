@@ -38,7 +38,6 @@ nav ul {
   list-style-type: none;
 }
 
-
   nav li {
     text-align: left;
   }
@@ -61,14 +60,12 @@ nav a:hover {
     text-align: center;
   }
 }
-
 @media only screen and (min-width: 38em) {
   html {
     font-size: 110%;
     line-height: 1.4;
   }
 }
-
 @media only screen and (min-width: 60em) {
   html {
     font-size: 120%;
