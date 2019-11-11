@@ -44,7 +44,7 @@ nav li {
 
 nav a {
   display: block;
-  padding: .5em .75rm;
+  padding: .5em .75em;
   color: #333;
   text-decoration: none;
 }
@@ -61,7 +61,7 @@ nav li {
 
 
 html {
-  font-size:110%
+  font-size:110%;
   line-height:1.4;
 }
 
